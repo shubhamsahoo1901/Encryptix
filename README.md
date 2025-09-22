@@ -44,9 +44,3 @@ During my 3-month internship at **Encryptix**, I worked on multiple Machine Lear
 
 ---
 
-## 🤝 Connect with Me
-- [LinkedIn](#)  
-- [GitHub](#)  
-- [Email](#)  
-
----
